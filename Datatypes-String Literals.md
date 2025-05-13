@@ -10,14 +10,11 @@ To write a Python program to read a string from the user and then print it.
 
 ## 🧾 Program
 ```
-men_stepped_on_the_moon = input("Enter a statement: ")
-
-print("You entered:", men_stepped_on_the_moon)
+a=input()
+print(a)
 ```
 ## Output
-```
-Enter a statement: Neil Armstrong was the first man on the moon.
-You entered: Neil Armstrong was the first man on the moon.
-```
+![WhatsApp Image 2025-05-13 at 14 08 52_b3fa0fe0](https://github.com/user-attachments/assets/ef995ff6-f189-4592-9f2b-b567c0794a04)
+
 ## Result
 Thus the given program is verified and executed successfully
